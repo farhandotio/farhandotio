@@ -1,27 +1,145 @@
-# 💫 About Me:
-Hi, my name is Farhan Sadik. I am a Full Stack Web Developer and currently working on Drakilo, focused on building scalable SaaS products with modern web technologies. I specialize in crafting clean, performant, and user-centric applications with a strong emphasis on UI/UX and system design.<br>🔭 Currently working on:<br>Drakilo — a SaaS provider platform focused on delivering production-ready digital solutions.<br>👯 Looking to collaborate on:<br>Open-source projects, SaaS products, startup ideas, and real-world web applications where quality engineering and clean architecture matter.<br>🤝 Looking for help with:<br>Scaling systems, DevOps workflows, cloud infrastructure, and best practices for production deployments.<br>🌱 Currently learning:<br>DevOps — including CI/CD pipelines, Docker, cloud deployment, and server optimization to bridge the gap between development and production.<br>💬 Ask me about:<br>Frontend development, backend APIs, full-stack architecture, MERN stack, project structuring, UI/UX decisions, and transitioning projects from development to production.
+<!-- ================= PROFILE BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MD%20Farhan%20Sadik&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff&desc=Full%20Stack%20Web%20Developer%20%7C%20SaaS%20Builder&descAlign=50&descAlignY=62" />
+</p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhansadik.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsadikdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farhansadik0760@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farhandotio&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=farhandotio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhandotio&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=farhandotio&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=farhandotio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ================= PROFILE VIEWS ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=farhandotio&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=farhandotio&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+Hi, I’m **MD Farhan Sadik**, a **Full Stack Web Developer (MERN Stack)** and the  
+**Founder & Lead Developer of Serve Studio**.
+
+I specialize in building **scalable, production-ready SaaS platforms** with a strong focus on:
+
+- Clean Architecture  
+- Performance Optimization  
+- Maintainable Codebases  
+- UI/UX with real-world usability  
+
+Currently working on **Drakilo**, where I design and implement systems that bridge the gap between **development and production**.
+
+---
+
+## 🔭 Currently Working On
+- **Drakilo** — A SaaS provider platform delivering scalable digital solutions  
+- Multi-tenant architectures & authentication flows  
+- Dashboards, APIs, and production-grade backend systems  
+- Real client projects with enterprise-level standards  
+
+---
+
+## 👯 Looking to Collaborate On
+- SaaS products & startup ideas  
+- Open-source projects  
+- Scalable web applications  
+
+---
+
+## 🤝 Looking for Help With
+- DevOps & CI/CD pipelines  
+- Docker & AWS infrastructure  
+- Scaling backend systems  
+
+---
+
+## 🌱 Currently Learning
+- DevOps (Docker, CI/CD, server optimization)  
+- Cloud deployment strategies  
+- System design for scalable SaaS  
+
+---
+
+## 💬 Ask Me About
+- Frontend & Backend Development  
+- MERN Stack Architecture  
+- SaaS Product Engineering  
+- UI/UX Decision Making  
+- Taking products from **development → production**
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,bootstrap,vite" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,rabbitmq" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,render" />
+</p>
+
+### Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,jest,eslint,notion" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farhandotio&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=farhandotio&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhandotio&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=farhandotio&theme=onestar&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhandotio&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>“Build systems that scale, code that lasts, and products that matter.”</b>
+</p>
+

@@ -119,8 +119,7 @@ Currently working on **Drakilo**, where I design and implement systems that brid
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farhandotio&theme=onestar&no-frame=true&row=1&column=7" /><img src="https://github.com/users/farhandotio/achievements/pull-shark"/>
+<p align="center"><img src="https://github.com/users/farhandotio/achievements/pull-shark"/>
 </p>
 
 ---
